@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaganvk29
+- 👋 Hi, I’m JAGAN
 - 👀 I’m interested in FLUTTER,JS,KOTLIN,PYTHON
 - 🌱 I’m currently learning PYTHON
 
