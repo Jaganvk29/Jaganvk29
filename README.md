@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaganvk29
 - 👀 I’m interested in FLUTTER,JS,KOTLIN,PYTHON
-- 🌱 I’m currently learning FLUTTER
+- 🌱 I’m currently learning PYTHON
 
 
 <!---
