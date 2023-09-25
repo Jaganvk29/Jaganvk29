@@ -1,6 +1,7 @@
 - 👋 Hi, I’m JAGAN
-- 👀 I’m interested in FLUTTER,JS,KOTLIN,PYTHON
-- 🌱 I’m currently learning PYTHON
+- 👀 Full Stack Developer | AWS Certified Developer Associate
+- Tech Stack MERN | Django | REACT NATIVE | FLUTTER | VUE.JS
+
 
 
 <!---
