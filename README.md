@@ -80,19 +80,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganvk&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="streak" />
-</div>
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-</div>
-
----
-
 <div align="center">
   <sub>⭐ <i>Feel free to explore my repositories or connect with me on LinkedIn!</i> ⭐</sub>
 </div>
