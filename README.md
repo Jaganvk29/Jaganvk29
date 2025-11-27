@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagan</h1>
-<h3 align="center">Software Engineer | HealthTech & Medical Imaging</h3>
+<h3 align="center">Software Engineer | DevOps | HealthTech & Medical Imaging</h3>
 
 ---
 
