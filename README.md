@@ -9,7 +9,17 @@
 - 🛠️ Experienced in building **DICOM workflows, cloud-native services, and full-stack applications**  
 - 📫 Reach me at **jaganvk29@gmail.com**
 
+
 ---
+
+### 🥇 Certifications  
+<p>
+  <a href="https://www.credly.com/badges/fd50bb56-2a24-402b-8eb3-1d0edde3b76b/public_url"> <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> </a>
+</p>
+
+
+---
+
 
 ### 🌐 Connect with Me  
 <p>
