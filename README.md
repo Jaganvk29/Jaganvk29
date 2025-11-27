@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jagan Vk</h1>
+<h1 align="center">Hi 👋, I'm Jagan</h1>
 <h3 align="center">Software Engineer | HealthTech & Medical Imaging</h3>
 
 ---
